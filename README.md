@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel-T-Henriques
 - 👀 I’m interested in Programming, Engineering, Automotion and all kinds of projects.
-- 🤓 I like 3D modeling in Blender, Programming in C, Python, HTML & CSS, Game Dev and other nerd things.
+- 🤓 I like 3D modeling in Blender, Programming in C, Python, HTML & CSS, Game Dev, computers, Operational Systems and other nerd things.
 
 - (June, 2024) I'm in the 1° period of Control and Automation Engineering,
 in Centro Federal de Educação Tecnológica Celso Suckow da Fonseca (Nova Iguaçu, RJ, Brazil),
