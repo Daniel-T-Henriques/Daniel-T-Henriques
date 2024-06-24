@@ -11,6 +11,9 @@ Here you can see more about the place https://cefet-rj.br/index.php/apresentacao
 - 📫 You can call me on my e-mail danielt.henriques@gmail.com
 - ⚡ Fun fact: I started Control and Automation Engineering because I love Physics and Tech.
 
+My LinkedIn:
+https://www.linkedin.com/in/daniel-taronquela-henriques-a716b72a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
 <!---
 Daniel-T-Henriques/Daniel-T-Henriques is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
